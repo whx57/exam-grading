@@ -1,0 +1,6 @@
+[submodule "rustlings"]
+	path = rustlings
+	url = https://github.com/whx57/Rustlings
+[submodule "learning-cxx"]
+	path = learning-cxx
+	url = https://github.com/whx57/learn-cxx
